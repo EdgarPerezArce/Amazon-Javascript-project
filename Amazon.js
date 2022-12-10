@@ -3,9 +3,13 @@ const message =`Welcome to Amazon!`;
 const URL = `http://www/amazonPrivateEndPoint/project`;
 const taxes = 8.5;
 
+
+
+
+
 // user page info
 let userName = `John25`;
-let password = ``
+let password = `12345`;
 let age = 100;
 let phoneNumber = `813-455-6845`;
 let geolocation = `Tampa, FL`;
@@ -28,3 +32,6 @@ let apparel = ``;
 let shoes = `Nike`;
 
 // page info contact info
+console.log(userName,);
+
+document.write(`Screenname ${ userName}`)
